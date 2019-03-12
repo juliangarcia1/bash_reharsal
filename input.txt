@@ -1,0 +1,6 @@
+name	date	comments
+Juan	03-17-19	Nothing happend
+Federico	03-17-19	Nothing happend
+Jorge	03-17-19	Nothing happend
+Santiago	03-17-19	Nothing happend
+Sonia	03-17-19	Nothing happend
